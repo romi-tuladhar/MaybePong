@@ -1,6 +1,34 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+*.obj
+*.exe
+*.pdb
+*.csproj.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.user
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+*.sil
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
 
 # Folder config file
 Desktop.ini
